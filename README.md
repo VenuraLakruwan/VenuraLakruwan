@@ -6,7 +6,7 @@
 <!-- MATRIX TYPING EFFECT ANIMATION --> 
 <p align="center"> 
   <a href="https://github.com"> 
-    <img src="https://demolab.com..." alt="Typing SVG Animation" /> 
+    <img src="https://demolab.com...;🛡️+Cybersecurity+Undergraduate+Student;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" /> 
   </a> 
 </p>
 
@@ -95,7 +95,7 @@ const agent = {
 
 <!-- ANIMATED TERMINAL SCANNING LINE --> 
 <p align="center"> 
-  <img src="https://githubusercontent.com" width="65%" alt="Terminal Animated Separator" /> 
+  <img src="https://vercel.app" width="65%" alt="Terminal Animated Separator" /> 
 </p>
 
 <p align="center"> 
