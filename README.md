@@ -6,16 +6,6 @@
   </h1>
 </div>
 
-### 👤 Identity Matrix
-```javascript
-const agent = {
-  name:           "Venura Jayawardhana",
-  role:           "Cybersecurity Undergraduate Student",
-  specialties:    ["Offensive Security", "Network Forensics", "Vulnerability Research"],
-  status:         "Hunting bugs & securing networks 🖥️"
-};
-```
-
 *   🛡️ **Current Mission:** Developing automated script packages for faster recon & vulnerability scanning.
 *   🎯 **Active Labs:** Actively pwning targets on HackTheBox and TryHackMe.
 *   ⚡ **Fun Fact:** Breaking systems to learn how to patch them properly.
