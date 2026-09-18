@@ -1,103 +1,71 @@
-<!-- PREMIUM ANIMATED CYBERPUNK HEADER BANNER --> 
-<p align="center"> 
-  <img src="https://vercel.app" width="100%" alt="Animated Cyber Header" /> 
-</p>
+# 📡 SYSTEM STATUS: OPERATIONAL
 
-<!-- MATRIX TYPING EFFECT ANIMATION --> 
-<p align="center"> 
-  <a href="https://github.com"> 
-    <img src="https://demolab.com...;🛡️+Cybersecurity+Undergraduate;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" /> 
-  </a> 
-</p>
-
-<!-- VISITOR COUNTER BADGE --> 
-<p align="center"> 
-  <img src="https://komarev.com" alt="Profile Views" /> 
-</p>
-
----
-
-### 📡 System Profile & Diagnostics
-
+### 👤 Identity Matrix
 ```javascript
 const agent = {
-  identity: "Venura Jayawardhana",
-  designation: "Cybersecurity Undergraduate Student",
-  specialization: ["Offensive Security", "Network Forensics", "Vulnerability Research"],
-  status: "Decrypting logs & hunting zero-days 🖥️"
+  name:           "Venura Jayawardhana",
+  role:           "Cybersecurity Undergraduate Student",
+  specialties:    ["Offensive Security", "Network Forensics", "Vulnerability Research"],
+  status:         "Hunting bugs & securing networks 🖥️"
 };
 ```
 
-- 🛡️ **Current Mission**: Developing automated script packages for faster recon & vulnerability scanning.
-- 🎯 **Active Labs**: Actively pwning machines on HackTheBox and TryHackMe.
-- ⚡ **Fun Fact**: Breaking systems to learn how to patch them properly.
+*   🛡️ **Current Mission:** Developing automated script packages for faster recon & vulnerability scanning.
+*   🎯 **Active Labs:** Actively pwning targets on HackTheBox and TryHackMe.
+*   ⚡ **Fun Fact:** Breaking systems to learn how to patch them properly.
 
 ---
 
-### 🛡️ Core Arsenal & Tech Stack
+### 🛠️ Tech Stack & Tactical Arsenal
 
-<table width="100%"> 
-<tr> 
-<td width="50%" valign="top"> 
-<h4>🎯 Offensive & Security Tools</h4> 
-<img src="https://shields.io" /> 
-<img src="https://shields.io" /><br/> 
-<img src="https://shields.io" /> 
-<img src="https://shields.io" /><br/> 
-<img src="https://shields.io" /> 
-<img src="https://shields.io" /> 
-</td> 
-<td width="50%" valign="top"> 
-<h4>💻 Languages & Architectures</h4> 
-<img src="https://shields.io" /> 
-<img src="https://shields.io" /><br/> 
-<img src="https://shields.io" /> 
-<img src="https://shields.io" /><br/> 
-<img src="https://shields.io" /> 
-<img src="https://shields.io" /> 
-</td> 
-</tr> 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎯 Offensive & Security Tools</strong>
+      <br/><br/>
+      <img src="https://shields.io" alt="Kali Linux" />
+      <img src="https://shields.io" alt="Metasploit" />
+      <br/>
+      <img src="https://shields.io" alt="Burp Suite" />
+      <img src="https://shields.io" alt="Wireshark" />
+      <br/>
+      <img src="https://shields.io" alt="Docker" />
+      <img src="https://shields.io" alt="Linux" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>💻 Languages & Infrastructure</strong>
+      <br/><br/>
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="Bash" />
+      <br/>
+      <img src="https://shields.io" alt="C++" />
+      <img src="https://shields.io" alt="PowerShell" />
+      <br/>
+      <img src="https://shields.io" alt="Git" />
+      <img src="https://shields.io" alt="GitHub" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🏆 Profile Trophies (Earned Real-Time)
+### 📊 Account Telemetry
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Trophies" />
+  <img src="https://vercel.app" width="48%" alt="Stats Card" />
+  <img src="https://herokuapp.com" width="48%" alt="Streak Card" />
+</p>
+
+---
+
+### 🌐 Secure Link Bridge
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Connection" />
   </a>
 </p>
 
----
-
-### 📊 Live Analytics & Activity Tracking
-
-<p align="center"> 
-  <img src="https://vercel.app" width="48%" alt="Stats Card" /> 
-  <img src="https://herokuapp.com" width="48%" alt="Streak Card" /> 
-</p>
-
-<!-- DYNAMIC WAVY ACTIVITY GRAPH ANIMATION --> 
-<p align="center"> 
-  <img src="https://vercel.app" width="100%" alt="Animated Activity Graph" /> 
-</p>
-
----
-
-### 🌐 Secure Session Link
-
-<p align="center"> 
-  <a href="https://linkedin.com" target="_blank"> 
-    <img src="https://shields.io" alt="LinkedIn Connection" /> 
-  </a> 
-</p>
-
-<!-- ANIMATED TERMINAL SCANNING LINE --> 
-<p align="center"> 
-  <img src="https://vercel.app" width="65%" alt="Terminal Animated Separator" /> 
-</p>
-
-<p align="center"> 
-  <code>🔒 "The quieter you become, the more you are able to hear."</code> 
+<p align="center">
+  <code>🔒 "The quieter you become, the more you are able to hear."</code>
 </p>
