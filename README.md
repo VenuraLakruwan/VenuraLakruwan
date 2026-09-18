@@ -1,32 +1,32 @@
-<!-- PREMIUM ANIMATED CYBERPUNK HEADER BANNER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Animated Cyber Header" />
+<!-- PREMIUM ANIMATED CYBERPUNK HEADER BANNER --> 
+<p align="center"> 
+  <img src="https://vercel.app" width="100%" alt="Animated Cyber Header" /> 
 </p>
 
-<!-- MATRIX TYPING EFFECT ANIMATION -->
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com⚡+[STATUS]+Initializing+SecOps+Node...;🛡️+Cybersecurity+Undergraduate;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" />
-  </a>
+<!-- MATRIX TYPING EFFECT ANIMATION --> 
+<p align="center"> 
+  <a href="https://git.io"> 
+    <img src="https://demolab.com...;🛡️+Cybersecurity+Undergraduate;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" /> 
+  </a> 
 </p>
 
-<!-- VISITOR COUNTER BADGE -->
-<p align="center">
-  <img src="https://komarev.comVenuraLakruwan&label=SYSTEM+ACCESSES&color=00ff66&style=flat-square" alt="Profile Views" />
+<!-- VISITOR COUNTER BADGE --> 
+<p align="center"> 
+  <img src="https://komarev.com" alt="Profile Views" /> 
 </p>
 
 ---
 
 ### 📡 System Profile & Diagnostics
 
-
+```javascript
 const agent = {
   identity: "Venura Jayawardhana",
   designation: "Cybersecurity Undergraduate Student",
   specialization: ["Offensive Security", "Network Forensics", "Vulnerability Research"],
   status: "Decrypting logs & hunting zero-days 🖥️"
 };
-
+```
 
 - 🛡️ **Current Mission**: Developing automated script packages for faster recon & vulnerability scanning.
 - 🎯 **Active Labs**: Actively pwning machines on HackTheBox and TryHackMe.
@@ -62,9 +62,10 @@ const agent = {
 ---
 
 ### 🏆 Profile Trophies (Earned Real-Time)
+
 <p align="center">
   <a href="https://github.com">
-    <img src="https://vercel.app[YOUR_GITHUB_USERNAME]&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+    <img src="https://vercel.app" alt="Trophies" />
   </a>
 </p>
 
@@ -73,13 +74,13 @@ const agent = {
 ### 📊 Live Analytics & Activity Tracking
 
 <p align="center">
-  <img src="https://vercel.app[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Stats Card" />
-  <img src="https://herokuapp.com[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" width="48%" alt="Streak Card" />
+  <img src="https://vercel.app" width="48%" alt="Stats Card" />
+  <img src="https://herokuapp.com" width="48%" alt="Streak Card" />
 </p>
 
 <!-- DYNAMIC WAVY ACTIVITY GRAPH ANIMATION -->
 <p align="center">
-  <img src="https://vercel.app[YOUR_GITHUB_USERNAME]&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Animated Activity Graph" />
+  <img src="https://vercel.app" width="100%" alt="Animated Activity Graph" />
 </p>
 
 ---
@@ -94,7 +95,7 @@ const agent = {
 
 <!-- ANIMATED TERMINAL SCANNING LINE -->
 <p align="center">
-  <img src="https://githubusercontent.com" width="65%" alt="Terminal Animated Separator" />
+  <img src="https://workers.dev" width="65%" alt="Terminal Animated Separator" />
 </p>
 
 <p align="center">
