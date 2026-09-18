@@ -6,7 +6,7 @@
 <!-- MATRIX TYPING EFFECT ANIMATION --> 
 <p align="center"> 
   <a href="https://github.com"> 
-    <img src="https://demolab.com...;🛡️+Cybersecurity+Undergraduate+Student;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" /> 
+    <img src="https://demolab.com...;🛡️+Cybersecurity+Undergraduate;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" /> 
   </a> 
 </p>
 
