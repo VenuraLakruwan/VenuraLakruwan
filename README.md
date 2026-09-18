@@ -5,8 +5,8 @@
 
 <!-- MATRIX TYPING EFFECT ANIMATION --> 
 <p align="center"> 
-  <a href="https://git.io"> 
-    <img src="https://demolab.com...;🛡️+Cybersecurity+Undergraduate;💥+Ethical+Hacker+%2F+Penetration+Tester;💻+Analyzing+Malware+%26+Securing+Networks..." alt="Typing SVG Animation" /> 
+  <a href="https://github.com"> 
+    <img src="https://demolab.com..." alt="Typing SVG Animation" /> 
   </a> 
 </p>
 
@@ -36,27 +36,27 @@ const agent = {
 
 ### 🛡️ Core Arsenal & Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 Offensive & Security Tools</h4>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Architectures</h4>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
+<table width="100%"> 
+<tr> 
+<td width="50%" valign="top"> 
+<h4>🎯 Offensive & Security Tools</h4> 
+<img src="https://shields.io" /> 
+<img src="https://shields.io" /><br/> 
+<img src="https://shields.io" /> 
+<img src="https://shields.io" /><br/> 
+<img src="https://shields.io" /> 
+<img src="https://shields.io" /> 
+</td> 
+<td width="50%" valign="top"> 
+<h4>💻 Languages & Architectures</h4> 
+<img src="https://shields.io" /> 
+<img src="https://shields.io" /><br/> 
+<img src="https://shields.io" /> 
+<img src="https://shields.io" /><br/> 
+<img src="https://shields.io" /> 
+<img src="https://shields.io" /> 
+</td> 
+</tr> 
 </table>
 
 ---
@@ -73,31 +73,31 @@ const agent = {
 
 ### 📊 Live Analytics & Activity Tracking
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="Stats Card" />
-  <img src="https://herokuapp.com" width="48%" alt="Streak Card" />
+<p align="center"> 
+  <img src="https://vercel.app" width="48%" alt="Stats Card" /> 
+  <img src="https://herokuapp.com" width="48%" alt="Streak Card" /> 
 </p>
 
-<!-- DYNAMIC WAVY ACTIVITY GRAPH ANIMATION -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Animated Activity Graph" />
+<!-- DYNAMIC WAVY ACTIVITY GRAPH ANIMATION --> 
+<p align="center"> 
+  <img src="https://vercel.app" width="100%" alt="Animated Activity Graph" /> 
 </p>
 
 ---
 
 ### 🌐 Secure Session Link
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Connection" />
-  </a>
+<p align="center"> 
+  <a href="https://linkedin.com" target="_blank"> 
+    <img src="https://shields.io" alt="LinkedIn Connection" /> 
+  </a> 
 </p>
 
-<!-- ANIMATED TERMINAL SCANNING LINE -->
-<p align="center">
-  <img src="https://workers.dev" width="65%" alt="Terminal Animated Separator" />
+<!-- ANIMATED TERMINAL SCANNING LINE --> 
+<p align="center"> 
+  <img src="https://githubusercontent.com" width="65%" alt="Terminal Animated Separator" /> 
 </p>
 
-<p align="center">
-  <code>🔒 "The quieter you become, the more you are able to hear."</code>
+<p align="center"> 
+  <code>🔒 "The quieter you become, the more you are able to hear."</code> 
 </p>
