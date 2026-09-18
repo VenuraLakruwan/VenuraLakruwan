@@ -9,16 +9,3 @@
 *   🛡️ **Current Mission:** Developing automated script packages for faster recon & vulnerability scanning.
 *   🎯 **Active Labs:** Actively pwning targets on HackTheBox and TryHackMe.
 *   ⚡ **Fun Fact:** Breaking systems to learn how to patch them properly.
-
-
-### 🌐 Secure Link Bridge
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Connection" />
-  </a>
-</p>
-
-<p align="center">
-  <code>🔒 "The quieter you become, the more you are able to hear."</code>
-</p>
