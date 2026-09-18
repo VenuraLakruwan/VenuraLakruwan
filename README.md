@@ -1,5 +1,11 @@
 # 📡 SYSTEM STATUS: OPERATIONAL
 
+<div align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=0B184D&center=true&vCenter=true&width=800&lines=ROOT+ACCESS+GRANTED...;SYSTEM+ONLINE...;WELCOME,+USER...;I+AM+Venura+Lakruwan;Cybersecurity Undergraduate;specialties+Offensive+Security;Network Forensics;Vulnerability Research; Hunting+bugs+&+securing+networks+🖥️+alt="Typing SVG" /> 
+  </h1>
+</div>
+
 ### 👤 Identity Matrix
 ```javascript
 const agent = {
@@ -14,49 +20,6 @@ const agent = {
 *   🎯 **Active Labs:** Actively pwning targets on HackTheBox and TryHackMe.
 *   ⚡ **Fun Fact:** Breaking systems to learn how to patch them properly.
 
----
-
-### 🛠️ Tech Stack & Tactical Arsenal
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🎯 Offensive & Security Tools</strong>
-      <br/><br/>
-      <img src="https://shields.io" alt="Kali Linux" />
-      <img src="https://shields.io" alt="Metasploit" />
-      <br/>
-      <img src="https://shields.io" alt="Burp Suite" />
-      <img src="https://shields.io" alt="Wireshark" />
-      <br/>
-      <img src="https://shields.io" alt="Docker" />
-      <img src="https://shields.io" alt="Linux" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>💻 Languages & Infrastructure</strong>
-      <br/><br/>
-      <img src="https://shields.io" alt="Python" />
-      <img src="https://shields.io" alt="Bash" />
-      <br/>
-      <img src="https://shields.io" alt="C++" />
-      <img src="https://shields.io" alt="PowerShell" />
-      <br/>
-      <img src="https://shields.io" alt="Git" />
-      <img src="https://shields.io" alt="GitHub" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Account Telemetry
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="Stats Card" />
-  <img src="https://herokuapp.com" width="48%" alt="Streak Card" />
-</p>
-
----
 
 ### 🌐 Secure Link Bridge
 
