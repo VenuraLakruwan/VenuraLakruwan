@@ -12,7 +12,7 @@
 
 <!-- VISITOR COUNTER BADGE -->
 <p align="center">
-  <img src="https://komarev.com[YOUR_GITHUB_USERNAME]&label=SYSTEM+ACCESSES&color=00ff66&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.comVenuraLakruwan&label=SYSTEM+ACCESSES&color=00ff66&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
