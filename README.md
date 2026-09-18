@@ -19,14 +19,14 @@
 
 ### 📡 System Profile & Diagnostics
 
-```javascript
+
 const agent = {
   identity: "Venura Jayawardhana",
   designation: "Cybersecurity Undergraduate Student",
   specialization: ["Offensive Security", "Network Forensics", "Vulnerability Research"],
   status: "Decrypting logs & hunting zero-days 🖥️"
 };
-```
+
 
 - 🛡️ **Current Mission**: Developing automated script packages for faster recon & vulnerability scanning.
 - 🎯 **Active Labs**: Actively pwning machines on HackTheBox and TryHackMe.
